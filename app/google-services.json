@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "865087516369",
+    "firebase_url": "https://testefirebase2-92b88.firebaseio.com",
+    "project_id": "testefirebase2-92b88",
+    "storage_bucket": "testefirebase2-92b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865087516369:android:0a86495012fa7af3dbdff0",
+        "android_client_info": {
+          "package_name": "br.com.bossini.fatec_ipi_noite_pdm_firebase_auth_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865087516369-sen0ed1j4lcb5qp4pqmgg8g0s5sab6mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCywYAHN5rElJY403UohFD9Ko-JsJ_fiqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865087516369-sen0ed1j4lcb5qp4pqmgg8g0s5sab6mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865087516369:android:3eee333ab19ab4aedbdff0",
+        "android_client_info": {
+          "package_name": "com.example.testefirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865087516369-sen0ed1j4lcb5qp4pqmgg8g0s5sab6mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCywYAHN5rElJY403UohFD9Ko-JsJ_fiqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865087516369-sen0ed1j4lcb5qp4pqmgg8g0s5sab6mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
